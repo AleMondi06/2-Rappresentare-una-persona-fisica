@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2_Rappresentare_una_persona_fisica
 {
+    // Classe
     class Datas
     {
         public string codice;
@@ -33,6 +34,7 @@ namespace _2_Rappresentare_una_persona_fisica
             Console.WriteLine("Persona registrata correttamente.");
         }
     }
+    // Main
     internal class Program
     {
         static void Main(string[] args)
